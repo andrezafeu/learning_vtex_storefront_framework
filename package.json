@@ -1,0 +1,12 @@
+{
+  "name": "sample-project",
+  "description": "Sample project to showcase storefront functionality",
+  "version": null,
+  "private": true,
+  "devDependencies": {
+    "react": "^0.14.0"
+  },
+  "babel":{
+    "presets": ["react","es2015"]
+  }
+}
