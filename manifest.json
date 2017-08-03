@@ -1,0 +1,11 @@
+{
+  "name": "my-first-app",
+  "vendor": "sambarock",
+  "title": "My first app",
+  "description": "My first app using Storefront",
+  "version": "0.0.0",
+  "dependencies": {
+    "vtex.storefront": "0",
+    "vtex.storefront-sdk": "0"
+  }
+}
